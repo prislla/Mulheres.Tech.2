@@ -71,7 +71,7 @@ INSERT INTO users (
 
     -- A senha será criptografada pela função SHA1 antes de ser inserida.
     SHA1('senha123'),
-
+ 
     -- Não vamos inserir a imagem diretamente no banco de dados.
     -- Buscamos a imagem pela URL dela.
     'https://randomuser.me/api/portraits/men/14.jpg',
