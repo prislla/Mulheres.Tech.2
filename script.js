@@ -19,7 +19,7 @@
  * runApp() → Aplicativo principal
  * Este aplicativo é executado pela última linha deste código.
  */
- function runApp() {
+function runApp() {
 
   // Carrega a página inicial do site quando este iniciar:
   // loadPage('home');
